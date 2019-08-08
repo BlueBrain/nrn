@@ -122,6 +122,16 @@ void inithoc() {
   int mpi_mes = 0;  // for printing an mpi message only once.
   char* pmes = 0;
 
+
+  // MPI_Initialized(&flag);
+
+  if (flag) {
+    mpi_mes = 1;
+
+    argc = argc_mpi;
+    argv = (char**)argv_mpi;
+  } else if (getenv("NEURON_INIT_MPI")) {
+
 #if NRNMPI_DYNAMICLOAD
   nrnmpi_stubs();
   // if nrnmpi_load succeeds (MPI available), pmes is nil.
@@ -132,14 +142,7 @@ void inithoc() {
   if (!pmes) {
     nrnmpi_wrap_mpi_init(&flag);
   }
-  // MPI_Initialized(&flag);
 
-  if (flag) {
-    mpi_mes = 1;
-
-    argc = argc_mpi;
-    argv = (char**)argv_mpi;
-  } else if (getenv("NEURON_INIT_MPI")) {
     // force NEURON to initialize MPI
     mpi_mes = 2;
     if (pmes) {
