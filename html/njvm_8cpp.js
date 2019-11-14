@@ -1,0 +1,25 @@
+var njvm_8cpp =
+[
+    [ "NULL_CHECK", "njvm_8cpp.html#a2ed8b7493633d5516b6c1480e07a3670", null ],
+    [ "PATH_SEPARATOR", "njvm_8cpp.html#a256a5721249aa3309437212cc21a9fe4", null ],
+    [ "USEJVM", "njvm_8cpp.html#a1fea703df21ecbab0a889d0528fdbf36", null ],
+    [ "AddOption", "njvm_8cpp.html#a81044e9d531f168235d328845206ca05", null ],
+    [ "convertJavaClassToHoc", "njvm_8cpp.html#abcb441184dc2dc89a4c7edf0c9db1aa2", null ],
+    [ "initialize_jvm2", "njvm_8cpp.html#a704198af2944239ceb2eb8178f0bcc46", null ],
+    [ "myabort", "njvm_8cpp.html#a25921c8babb79370d1a148d446295d75", null ],
+    [ "myexit", "njvm_8cpp.html#a921b14efa0c13994274fecdfa9fb060d", null ],
+    [ "myvfprintf", "njvm_8cpp.html#ac5e6ef47215292076d039083497de183", null ],
+    [ "nj_load", "njvm_8cpp.html#a628d08998c62b3010f6fdb7acf32d421", null ],
+    [ "nrn_InitializeJavaVM", "njvm_8cpp.html#addfc9318f7eac7d72b34065ab5422e3b", null ],
+    [ "nrnjava_init", "njvm_8cpp.html#a74376d99e2e85fe4983bbcaa5d495960", null ],
+    [ "PrintJavaVersion", "njvm_8cpp.html#a092813db740c8b9c448d7b26e237d374", null ],
+    [ "maxOptions", "njvm_8cpp.html#a704109f0e4d09526dc503737213be362", null ],
+    [ "neuron_home", "njvm_8cpp.html#adb70819f4533d87dbfe22d43c96326c0", null ],
+    [ "nrnjava_env", "njvm_8cpp.html#a4003bafdc30e9f9bfcd88b625bfd46cf", null ],
+    [ "nrnjava_root_env", "njvm_8cpp.html#abade86fe26ef9855e47ebc0cf5f64bae", null ],
+    [ "nrnjava_vm", "njvm_8cpp.html#a88da8b868a5379e8e74ce827048bfe13", null ],
+    [ "numOptions", "njvm_8cpp.html#aa3174b58130e22f99a2289148aac2bc7", null ],
+    [ "options", "njvm_8cpp.html#af5f6900c8ac65ce17f24dbd9ed72b8a5", null ],
+    [ "p_hoc_load_java", "njvm_8cpp.html#a744600bbaa79158aeb8b4c2cf753def5", null ],
+    [ "p_java2nrn_cons", "njvm_8cpp.html#a1062792634eaa5226c68f96db72d971c", null ]
+];

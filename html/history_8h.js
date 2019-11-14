@@ -1,0 +1,27 @@
+var history_8h =
+[
+    [ "_hist_entry", "struct__hist__entry.html", "struct__hist__entry" ],
+    [ "HIST_ENTRY", "history_8h.html#a6571a26a3b0717ecc590c180a2b96db4", null ],
+    [ "add_history", "history_8h.html#a15d31eb3963eb51fbb2cfdb20c9b84a8", null ],
+    [ "append_history", "history_8h.html#a3e9028b0adaccde253f79238ac3fa176", null ],
+    [ "current_history", "history_8h.html#a4e2b496f44c494b35503a73565b49b8a", null ],
+    [ "history_arg_extract", "history_8h.html#ab4ef56620d7b0958f82a3c4a7e7ab768", null ],
+    [ "history_expand", "history_8h.html#a5ca07e7c836297bb420e4a184a4d85b6", null ],
+    [ "history_list", "history_8h.html#a6f5686bbf2b7b2d2cd953bfc6d976a82", null ],
+    [ "history_search", "history_8h.html#aca3744086504b42bf033cd59f67997c8", null ],
+    [ "history_search_pos", "history_8h.html#ac2494432e6e514829b3ad0b6c36abe39", null ],
+    [ "history_set_pos", "history_8h.html#aed4fa84ae091c62210a859912cacf7b9", null ],
+    [ "history_total_bytes", "history_8h.html#ac5e636438c7724673a0baabce4f9241d", null ],
+    [ "next_history", "history_8h.html#a6f4c3fee5efe38048808ec0321ef7e08", null ],
+    [ "previous_history", "history_8h.html#ab5e828b7df42d396f12453b2d6f54e12", null ],
+    [ "read_history", "history_8h.html#acb4a311058c3aa39075a1336479db0f1", null ],
+    [ "read_history_range", "history_8h.html#ad0f6ee6ccfe142671a636209240d66ae", null ],
+    [ "remove_history", "history_8h.html#a5fb6eb51c637ebcf69261e3ccb0f23a8", null ],
+    [ "replace_history_entry", "history_8h.html#a96337bb7c9768a51f4c012ca3e5d696a", null ],
+    [ "stifle_history", "history_8h.html#a6ec193217aae5db2ef75edf110e0b9d3", null ],
+    [ "unstifle_history", "history_8h.html#a6791e22a3a27ba78de7f5b3a6a332ccc", null ],
+    [ "using_history", "history_8h.html#ad4518933646b067a19ac33dedc5c76e0", null ],
+    [ "where_history", "history_8h.html#ae05fbf42d2ff70730318f3b9fd45079b", null ],
+    [ "write_history", "history_8h.html#aef8491839fad75673124848b458fdcbf", null ],
+    [ "history_base", "history_8h.html#a64715ad07d3d20e72a1cdeb75f8174b3", null ]
+];

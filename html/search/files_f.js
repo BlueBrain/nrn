@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['parallel_2ec_13559',['parallel.c',['../parallel_8c.html',1,'']]],
+  ['parsact_2ec_13560',['parsact.c',['../parsact_8c.html',1,'']]],
+  ['parse1_2ec_13561',['parse1.c',['../modlunit_2parse1_8c.html',1,'(Global Namespace)'],['../nmodl_2parse1_8c.html',1,'(Global Namespace)']]],
+  ['parse1_2eh_13562',['parse1.h',['../modlunit_2parse1_8h.html',1,'(Global Namespace)'],['../nmodl_2parse1_8h.html',1,'(Global Namespace)']]],
+  ['partial_2ec_13563',['partial.c',['../partial_8c.html',1,'']]],
+  ['partrans_2ecpp_13564',['partrans.cpp',['../partrans_8cpp.html',1,'']]],
+  ['passive0_2ec_13565',['passive0.c',['../passive0_8c.html',1,'']]],
+  ['passn_2ec_13566',['passn.c',['../passn_8c.html',1,'']]],
+  ['pgccfeatures_2eh_13567',['pgccfeatures.h',['../pgccfeatures_8h.html',1,'']]],
+  ['philox_2eh_13568',['philox.h',['../philox_8h.html',1,'']]],
+  ['plot_2ec_13569',['plot.c',['../plot_8c.html',1,'']]],
+  ['plt_2ec_13570',['plt.c',['../plt_8c.html',1,'']]],
+  ['point_2ec_13571',['point.c',['../point_8c.html',1,'']]],
+  ['poisson_2ecpp_13572',['Poisson.cpp',['../_poisson_8cpp.html',1,'']]],
+  ['poisson_2eh_13573',['Poisson.h',['../_poisson_8h.html',1,'']]],
+  ['pool_2eh_13574',['pool.h',['../pool_8h.html',1,'']]],
+  ['ppshape_2ecpp_13575',['ppshape.cpp',['../ppshape_8cpp.html',1,'']]],
+  ['ppshape_2eh_13576',['ppshape.h',['../ppshape_8h.html',1,'']]],
+  ['prcellstate_2ecpp_13577',['prcellstate.cpp',['../prcellstate_8cpp.html',1,'']]],
+  ['prmat_2ec_13578',['prmat.c',['../oc_2prmat_8c.html',1,'(Global Namespace)'],['../sparse_2prmat_8c.html',1,'(Global Namespace)']]],
+  ['profile_2eh_13579',['profile.h',['../profile_8h.html',1,'']]],
+  ['psection_2ec_13580',['psection.c',['../psection_8c.html',1,'']]],
+  ['pwman_2ecpp_13581',['pwman.cpp',['../pwman_8cpp.html',1,'']]],
+  ['pxop_2ec_13582',['pxop.c',['../pxop_8c.html',1,'']]],
+  ['pysecname2sec_2ecpp_13583',['pysecname2sec.cpp',['../pysecname2sec_8cpp.html',1,'']]]
+];

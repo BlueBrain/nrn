@@ -1,0 +1,28 @@
+var chardefs_8h =
+[
+    [ "ABORT_CHAR", "chardefs_8h.html#a7cfbc8b5b023780b129b7d970c10b792", null ],
+    [ "control_character_bit", "chardefs_8h.html#acb8ce414e155926c8619b8781bd83cc1", null ],
+    [ "control_character_threshold", "chardefs_8h.html#ad2c621474dddfc5c36373cf57e0062ea", null ],
+    [ "CTRL", "chardefs_8h.html#a38adf45853bf0ab387f2b9ce3145cd37", null ],
+    [ "CTRL_P", "chardefs_8h.html#ab1080f489bd36c5dcba92898b1202b31", null ],
+    [ "ESC", "chardefs_8h.html#a4af1b6159e447ba72652bb7fcdfa726e", null ],
+    [ "lowercase_p", "chardefs_8h.html#a9f43fa573176f7fc66820d3784c3dab2", null ],
+    [ "META", "chardefs_8h.html#a3f437fcc45d6a9cda7fe593ce350aaad", null ],
+    [ "meta_character_bit", "chardefs_8h.html#ae370461b95b809edbb340d8a55e6faee", null ],
+    [ "meta_character_threshold", "chardefs_8h.html#ae454fd2edbb11fdd76db09c87db737ca", null ],
+    [ "META_P", "chardefs_8h.html#a8abd74194c1ff2014edcb72f5d691120", null ],
+    [ "NEWLINE", "chardefs_8h.html#a806511f4930171733227c99101dc0606", null ],
+    [ "PAGE", "chardefs_8h.html#a81cb74761d269ea2740e5df37fbf4847", null ],
+    [ "pure_alphabetic", "chardefs_8h.html#ad43a392e802c09aa589398124d8b00b8", null ],
+    [ "RETURN", "chardefs_8h.html#a6a0e6b80dd3d5ca395cf58151749f5e2", null ],
+    [ "RUBOUT", "chardefs_8h.html#abc624c2e7a1e62b6ab90d02ff9e927b0", null ],
+    [ "savestring", "chardefs_8h.html#abb76e9f0eacf35ac61f9080497555ccd", null ],
+    [ "SPACE", "chardefs_8h.html#a5ff6e798033f03e74730e99f01936f84", null ],
+    [ "TAB", "chardefs_8h.html#ad58a1fbfc85c7e4790fc55e654f50221", null ],
+    [ "to_lower", "chardefs_8h.html#acb5cba5d128e4a99abcf08f9d7354722", null ],
+    [ "to_upper", "chardefs_8h.html#aa13a91b76d5d073259bc1479211cc72c", null ],
+    [ "UNCTRL", "chardefs_8h.html#a818642fe93154c3455f5c1daffe01920", null ],
+    [ "UNMETA", "chardefs_8h.html#ac125da79ccad5247fa4172d995d0b533", null ],
+    [ "uppercase_p", "chardefs_8h.html#abaada834b63a969c52e00df1f4fb0c12", null ],
+    [ "whitespace", "chardefs_8h.html#a6a8878e323ddb4bf57b7c9db293b3fd6", null ]
+];
